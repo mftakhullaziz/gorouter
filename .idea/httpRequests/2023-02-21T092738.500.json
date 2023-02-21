@@ -1,8 +1,0 @@
-{
-  "status_code": 500,
-  "message": "INTERNAL SERVER ERROR",
-  "is_success": false,
-  "data": [
-    {}
-  ]
-}
