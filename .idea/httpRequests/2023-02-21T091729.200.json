@@ -1,0 +1,10 @@
+{
+  "status_code": 201,
+  "message": "Create Category Success",
+  "is_success": true,
+  "data": {
+    "id": 4,
+    "name": "test_baru",
+    "desc": "test_baru"
+  }
+}

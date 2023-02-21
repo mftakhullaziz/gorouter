@@ -1,0 +1,10 @@
+{
+  "status_code": 201,
+  "message": "Update Category Success",
+  "is_success": true,
+  "data": {
+    "id": 2,
+    "name": "qweq",
+    "desc": "test_update"
+  }
+}

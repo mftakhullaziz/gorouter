@@ -1,0 +1,27 @@
+{
+  "status_code": 201,
+  "message": "Find Category Success",
+  "is_success": true,
+  "data": [
+    {
+      "id": 1,
+      "name": "test1",
+      "desc": "test1"
+    },
+    {
+      "id": 2,
+      "name": "test3",
+      "desc": "test_update"
+    },
+    {
+      "id": 3,
+      "name": "test_baru",
+      "desc": "test_baru"
+    },
+    {
+      "id": 4,
+      "name": "test_baru",
+      "desc": "test_baru"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "status_code": 201,
+  "message": "Find Category By 2Success",
+  "is_success": true,
+  "data": {
+    "id": 2,
+    "name": "test2",
+    "desc": ""
+  }
+}
