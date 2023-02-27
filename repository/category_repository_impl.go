@@ -54,7 +54,7 @@ func (c CategoryRepositoryImpl) FindById(ctx context.Context, tx *sql.Tx, catId 
 		helper.PanicIfError(err)
 		return category, nil
 	} else {
-		return category, errors.New("Category is not found")
+		return category, errors.New("category is not found")
 	}
 }
 
